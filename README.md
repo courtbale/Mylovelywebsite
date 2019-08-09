@@ -1,2 +1,0 @@
-# Mylovelywebsite
-Created with CodeSandbox
